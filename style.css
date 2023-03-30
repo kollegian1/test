@@ -450,6 +450,7 @@ a.error-login-msg:hover {
 @media (max-width: 1150px) {
     body {
         overflow: hidden;
+        user-select: none;
     }
     .mobile {
         position: absolute;
